@@ -11,6 +11,10 @@ public class HelloA {
 		System.out.println("BBBB");
 
 		System.out.println("AAA");
+
 		System.out.println("ABCC");
+
+		System.out.println("CCC");
+
 	}
 }
