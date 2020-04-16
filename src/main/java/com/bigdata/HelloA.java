@@ -7,5 +7,6 @@ public class HelloA {
 		System.out.println("yyyy");
 
 		System.out.println("hhhh");
+		System.out.println("BBB");
 	}
 }
