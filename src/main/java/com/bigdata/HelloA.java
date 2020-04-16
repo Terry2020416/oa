@@ -11,6 +11,6 @@ public class HelloA {
 		System.out.println("BBBB");
 
 		System.out.println("AAA");
-		System.out.println("DDD");
+		System.out.println("ABC");
 	}
 }
