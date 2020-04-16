@@ -7,10 +7,11 @@ public class HelloA {
 		System.out.println("yyyy");
 
 		System.out.println("hhhh");
-<<<<<<< HEAD
+
 		System.out.println("BBBB");
-=======
+
 		System.out.println("AAA");
->>>>>>> branch 'master' of https://github.com/Terry2020416/oa.git
+		System.out.println("CCC");
+
 	}
 }
